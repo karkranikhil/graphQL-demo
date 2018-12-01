@@ -7,6 +7,9 @@ const schema = buildSchema(`
         lastName:String
         gender:String
         language:String,
+        emails:[Email]!
+    }
+    type Email {
         email:String
     }
     type Query {

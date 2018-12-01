@@ -16,7 +16,7 @@ const root ={friend:()=>{
         "lastName":'karkra',
         "gender":'Male',
         "language":'ENglish',
-        "email":'nik@gmail.com'
+        "emails":[{email:'nik@gmail.com'},{email:'nik1@gmail.com'}]
     }
 }};
 app.use('/graphql', graphqlHTTP({
