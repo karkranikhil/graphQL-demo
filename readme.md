@@ -10,15 +10,15 @@ Ask for what you want − and get it
 Send a GraphQL query to your API and get exactly what you need. GraphQL queries always return predictable results. Applications using GraphQL are fast and stable. Unlike Restful services, these applications can restrict data that should be fetched from the server</p>
 
 ### Technologies used in demo
-    *   Express - Express.js is a Node.js web application server framework, designed for building single-page, multi-page, and hybrid web applications
-    *   GraphQL - GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data.
-    *   casual - Fake data generator for javascript
-    *   graphql-tools -generate and mock GraphQL.js schemas.
-    *   lodash -Lodash is a JavaScript library which provides utility functions for common programming tasks using the functional programming paradigm
-    *   mongoose - Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js.
-    *   nodemon - nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory
-    *   sequelize - Sequelize is a promise-based Node.js ORM for Postgres, MySQL, SQLite and Microsoft SQL Server. 
-    *   sqlite3 - SQLite3 is a compact free database you can use easily create and use a database.  
+    *   <b>Express</b> - Express.js is a Node.js web application server framework, designed for building single-page, multi-page, and hybrid web applications
+    *   <b>GraphQL</b> - GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data.
+    *   <b>casual</b> - Fake data generator for javascript
+    *   <b>graphql-tools -generate and mock GraphQL.js schemas.
+    *   <b>lodash</b> -Lodash is a JavaScript library which provides utility functions for common programming tasks using the functional programming paradigm
+    *   <b>mongoose</b> - Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js.
+    *   <b>nodemon</b> - nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory
+    *   <b>sequelize</b> - Sequelize is a promise-based Node.js ORM for Postgres, MySQL, SQLite and Microsoft SQL Server. 
+    *   <b>sqlite3</b> - SQLite3 is a compact free database you can use easily create and use a database.  
 
 ### Query
         query{
