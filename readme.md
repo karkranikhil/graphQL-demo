@@ -10,7 +10,7 @@ Ask for what you want − and get it
 Send a GraphQL query to your API and get exactly what you need. GraphQL queries always return predictable results. Applications using GraphQL are fast and stable. Unlike Restful services, these applications can restrict data that should be fetched from the server</p>
 
 ### Technologies used in demo
-    *   <b>Express</b> - Express.js is a Node.js web application server framework, designed for building single-page, multi-page, and hybrid web applications
+    *   ***Express - Express.js is a Node.js web application server framework, designed for building single-page, multi-page, and hybrid web applications
     *   <b>GraphQL</b> - GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data.
     *   <b>casual</b> - Fake data generator for javascript
     *   <b>graphql-tools -generate and mock GraphQL.js schemas.
