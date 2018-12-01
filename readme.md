@@ -1,4 +1,4 @@
-### Graphql basics
+# Graphql basics & small demo
 <h3>GraphQL—a query language for APIs that was originally built by Facebook—makes it easier for you to get the data you actually need from a query</h3>
 
 ### Why Graphql
